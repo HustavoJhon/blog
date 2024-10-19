@@ -1,4 +1,48 @@
-**PACMAN** is a blog focused on sharing knowledge and tools for developers, with a special emphasis on setting up environments in Linux. You'll find guides, tips, and resources on topics like system administration, workflow customization, automation, and much more. Perfect for developers looking to optimize their workflow while exploring the power of Linux.
+---
+title: "Astro Nano"
+description: "Minimal portfolio and blog build with astro and no frameworks."
+date: "Mar 26 2024"
+demoURL: "https://astro-nano-demo.vercel.app"
+repoURL: "https://github.com/markhorn-dev/astro-nano"
+---
+
+![Astro Nano](/astro-nano.png)
+
+Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and blog theme.
+
+Built with Astro, Tailwind and Typescript, an no frameworks.
+
+It was designed as an even more minimal theme than my popular theme [Astro Sphere](https://github.com/markhorn-dev/astro-sphere)
+
+## 🚀 Deploy your own
+
+<div class="flex gap-2">
+  <a target="_blank" aria-label="Deploy with Vercel" href="https://vercel.com/new/clone?repository-url=https://github.com/markhorn-dev/astro-nano">
+    <img src="/deploy_vercel.svg" />
+  </a>
+  <a target="_blank" aria-label="Deploy with Netlify" href="https://app.netlify.com/start/deploy?repository=https://github.com/markhorn-dev/astro-nano">
+    <img src="/deploy_netlify.svg" />
+  </a>
+</div>
+
+## 📋 Features
+
+- ✅ 100/100 Lighthouse performance
+- ✅ Responsive
+- ✅ Accessible
+- ✅ SEO-friendly
+- ✅ Typesafe
+- ✅ Minimal style
+- ✅ Light/Dark Theme
+- ✅ Animated UI
+- ✅ Tailwind styling
+- ✅ Auto generated sitemap
+- ✅ Auto generated RSS Feed
+- ✅ Markdown support
+- ✅ MDX Support (components in your markdown)
+
+## 💯 Lighthouse score
+![Astro Nano Lighthouse Score](/lighthouse.png)
 
 ## 🕊️ Lightweight
 No frameworks or added bulk
@@ -10,9 +54,6 @@ Rendered in ~40ms on localhost
 
 The blog posts on the demo serve as the documentation and configuration.
 
-## 🚀 Deploy your own
-
-[![Deploy with Vercel](_deploy_vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/markhorn-dev/astro-nano)  [![Deploy with Netlify](_deploy_netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/markhorn-dev/astro-nano)
 ## 💻 Commands
 
 All commands are run from the root of the project, from a terminal:
